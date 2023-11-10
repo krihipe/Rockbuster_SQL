@@ -22,4 +22,4 @@ The data was provided by Rockbuster in the Project Brief. The data set worked on
 - Staff
 - Store
 ## Visualizations
-Visualizations were created in [Tableau] (https://public.tableau.com/views/Task3_10RockbusterCustomerDistribution/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link).
+Visualizations were created in [[Tableau]([url](https://public.tableau.com/views/Task3_10RockbusterCustomerDistribution/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/Task3_10RockbusterCustomerDistribution/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)].
